@@ -19,3 +19,5 @@ https://github.com/socketio
 
 https://davidwalsh.name/websocket
 
+http://stackoverflow.com/questions/13028604/sending-a-javascript-object-through-websockets-with-faye
+
